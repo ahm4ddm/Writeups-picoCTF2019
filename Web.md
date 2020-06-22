@@ -1,4 +1,4 @@
-# 1. Inpe3tor
+# 1. Insp3ct0r
 Penyelesaian
 - Coba kita lakukan inspeksi elemen pada web
 - Ternyata ada flag tapi masih kurang dua lagi, kita cari di file .css nya ternyata ada flagnya
